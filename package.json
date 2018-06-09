@@ -1,0 +1,15 @@
+{
+  "name": "zipcreator",
+  "version": "1.0.0",
+  "description": "App para crear archivos zip",
+  "main": "/app/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "archiver": "^2.1.1",
+    "inquirer": "^6.0.0"
+  }
+}
