@@ -1,0 +1,29 @@
+[33mcommit f1d9db4e515fce6225109b6f7d1cd7e241511104[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Roberto <rob.vicalvaro@gmail.com>
+Date:   Sun Jun 10 21:16:43 2018 +0200
+
+    Suprimida la carpeta de zips
+
+[33mcommit cb52a8addb4caf85071fb5748aac5a67cba0b714[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Roberto <rob.vicalvaro@gmail.com>
+Date:   Sun Jun 10 21:15:04 2018 +0200
+
+    Arreglando catch y posibilidad de que no quiera hacer zip
+
+[33mcommit d104dc02248ba16b4a6c3d3ee77c05113e286d2a[m
+Author: RGDevelop <rob.vicalvaro@gmail.com>
+Date:   Sat Jun 9 20:08:41 2018 +0200
+
+    Añadiendo un readme
+
+[33mcommit bcba65a63a553195b50d048f3a7e93c54975cd24[m
+Author: RobertoGDev <robertogarciadelrio@MacBook-Pro-de-Roberto-Garcia-del-Rio.local>
+Date:   Sat Jun 9 20:03:27 2018 +0200
+
+    Añadiendo un readme
+
+[33mcommit a2bf1498ab66fcaa8d455c6ffd1af56bdf53ecbb[m
+Author: RobertoGDev <robertogarciadelrio@MacBook-Pro-de-Roberto-Garcia-del-Rio.local>
+Date:   Sat Jun 9 19:36:54 2018 +0200
+
+    Primer commit funcionando
